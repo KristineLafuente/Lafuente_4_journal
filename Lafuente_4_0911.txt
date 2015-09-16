@@ -1,0 +1,1 @@
+Psuedo code is like code, but it is fake and easier. It is good for telling the computer to create things. We will use it to create codes.
