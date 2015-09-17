@@ -1,0 +1,1 @@
+The Java data types are int, float, short, long, and double. int is an integer, i.e, whole or "counting" numbers. Float is a number with decimals. For short, long, double we will mostly use double for decimal numbers. 
