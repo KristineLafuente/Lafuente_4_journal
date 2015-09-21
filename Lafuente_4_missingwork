@@ -1,0 +1,1 @@
+Yesterday, we added files to our GitHub directory. We did this so that we can set up a working directory. To add things to our file, we have to type git add and press enter. Then we type  git commit -m. and git push -u origin master. 
