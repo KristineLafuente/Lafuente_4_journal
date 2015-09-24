@@ -1,0 +1,3 @@
+The GPl could be a virus because it can destroy codes. 
+Open source is free, and proprietary software is not.
+GNU licenses can be used for only GNU software. The MIT license can be combined with GPL. 
