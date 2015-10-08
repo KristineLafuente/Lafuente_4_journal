@@ -1,0 +1,5 @@
+My thoughts for the art project is to use methods, and use them to draw things. 
+I might make methods to draw certain shapes.
+I can use my method for the for loop to make the shape I  want, and change the color.
+I can use if, else if, and else to add multiple things to my picture.
+I can use math to figure out how big each shape will be, and how far apart or close together I want them to be.
