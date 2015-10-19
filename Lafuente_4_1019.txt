@@ -1,0 +1,11 @@
+I am not done with my methods. I need to make one for a triangle. 
+When we went over methods, I was typing methods on netbeans as they were being said. I thought it was like what we did in challenge 0. 
+I did notice the art method code. 
+I looked at the code to give me an idea of what can be done when working on my project.
+
+private void Squares(GraphicsContext gc) {
+gc.setFill(Color.RED);
+gc.fillRect(10,10,10,10);
+gc.fillRect(20,20,20,20);
+gc.fillRect(40,40,40,40);
+gc.fillRect(80,80,80,80); 
