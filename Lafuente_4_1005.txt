@@ -1,0 +1,1 @@
+CODE COMMENTS are what you can add to your code to help your code more understandable.

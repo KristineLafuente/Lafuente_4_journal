@@ -1,0 +1,2 @@
+
+I am making an ice cream cone. I need to add the cone,a triangle, and positon the cherry,a small red circle,.I made three methods for three circles. I am going to make another method for a triangle that will be the cone.

@@ -1,0 +1,73 @@
+Begin:
+
+   Do 1 time 
+   Draw downward 3 cm 
+   Draw right 2 cm
+
+  End:
+
+Begin:
+
+   Do 1 time 
+   Draw upward 1 cm
+   Draw left 1 cm
+   Draw downward 1 cm
+   Draw right 1 cm
+   Draw right downward line 1.5 cm
+
+  End:
+
+Begin:
+   
+   Do 1 time
+   Draw upward 3 cm
+   Draw right 2 cm
+   Draw left 2 cm
+   Draw downward 1 cm
+   Draw right 1 cm
+
+  End:
+
+Begin:
+   
+   Do 1 time
+   Draw downward 1 cm
+   draw right 1 cm
+   Draw upward 1 cm
+
+  End:
+
+Begin:
+ 
+   Do 1 time 
+   Draw right 1 cm
+   Draw upward .5 cm
+   Draw left 1 cm
+   Draw downward 1.5 cm
+   Draw right 1 cm
+
+  End:
+
+Begin:
+
+   Do 1 time
+   Draw upward 1 cm
+   Draw downward .3 cm
+   Draw right 1 cm
+   Draw downward 1 cm
+
+  End:
+
+Begin:
+
+   Draw upward 3 cm
+   Draw downward 1.5 cm
+   Draw left 1.5 cm
+   Draw right 3 cm
+
+  End:
+    
+
+
+
+
