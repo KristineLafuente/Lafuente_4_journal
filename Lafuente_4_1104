@@ -1,0 +1,8 @@
+A method is an in object oriented program. The methods were put into static void and private static void. 
+
+The methods I used is username, uguess, guess, magicnumber, rand, playagain, and guesses
+
+A while loop is a statement that will repeat as long as it is true.
+
+I used Boolean in a method to determine when the game ends. The while loop determines how many guesses I have. 
+
