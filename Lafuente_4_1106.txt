@@ -1,0 +1,4 @@
+Strings are a type of data types.
+they are good for storing many memories.
+Class String is an example of a string method.
+String methods can hold many ideas in one method.
