@@ -1,0 +1,1 @@
+I was successful in making the game end in different ways. I was also successful in making the player pick decisions that require some thinking.
