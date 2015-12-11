@@ -1,0 +1,1 @@
+I would like to make a 2-D dungeon tat has enemys that you must defeat in order to keep moving foward. I want my game to have different difficulties if possible, and I would like to have check points so that if you die, you won't have to start from the beginning.
