@@ -1,0 +1,1 @@
+To add an image to a slick game, you have to add the name of the image in the res folder to the code of the game. The code to add the menu screen is: startimage = new Image("res/Lorelei.png");
