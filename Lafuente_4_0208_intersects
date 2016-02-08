@@ -1,0 +1,1 @@
+to check to see whether weapons damage enemies or objects, you would go to the item class. Then you would change the hitbox it affects you when you hit an enemy/object.
