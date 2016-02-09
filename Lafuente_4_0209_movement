@@ -1,0 +1,2 @@
+To make the orb move in the direction you are facing, you have to make the x and y coordinents the same as the players. You have to change where the orb goes after hitting a different key. else if (input.isKeyDown(Input.KEY_DOWN)) { would be the method where you can change where the orb goes.
+                                                                                                                                                                                                                                       
