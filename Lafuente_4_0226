@@ -1,0 +1,1 @@
+	This code is a char array. There are 5 locations on a map. The for and if statements determine what is required for which map to be printed. You could make it print an X by changing the . to an X in the System.out.println line of code. You could use this to make a 5 in a row game by using X and Y values to be printed when at certain points of the map.
