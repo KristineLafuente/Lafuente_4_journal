@@ -1,0 +1,48 @@
+1.) A class: public class ForestFun extends BasicGameState { 
+
+2.) This is not a class constructor, but it calls on the class conrtuctor from Donut(); 
+
+3.) A class with values and a class constuctor:
+public class Cake {
+	String icing;
+	boolean isEaten;
+	int layers;
+	boolean hasCandles;
+	int candles;
+
+	public Cake(String a, int b) {
+		this.icing = a;
+		this.layers = b;
+		this.isEaten = false;
+}
+}
+
+4.) A getter gets, i.e., a getter will return a value from an object, e.g., 
+	public boolean getisEaten(){
+		return this.isEaten;
+}
+
+5.) A setter sets variable values for an instance.
+	public void setisEaten(boolean b){
+		this.isEaten = b;
+}
+
+6.) Array of breakfast: 
+
+int[] coolNumbers; //this is an array of ints.
+
+String[] bfast; //this is an array of Strings.
+
+boolean[] [] blocked; //this is a 2D array of booleans.
+
+Breakfast[] reyesFamilyBreakfasts;
+
+
+Cake Josh = new cake("Yellow", 3); //this is not a setter 
+
+Using getters and setters:
+//This is using a setter!!
+Josh.setisEaten(true);
+
+//This is a getter
+Josh.getisEaten();
