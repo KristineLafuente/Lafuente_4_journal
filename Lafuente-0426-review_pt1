@@ -1,0 +1,11 @@
+public class Student{
+
+	public Student(boolean isPassing){
+	
+	public static Student student;
+}	
+}
+	
+	If we were to continue with arduino, I would create a guessing game. You would get 3 trys, and the numbers will range from 1-10. 
+You would have to hit the button a certain number of times to represent the number you are thinking of. If the number of times you hit
+doesn't match the number the program is set at, then the buzzer and red light will "buzz". If it is right, the green light will buzz.  
