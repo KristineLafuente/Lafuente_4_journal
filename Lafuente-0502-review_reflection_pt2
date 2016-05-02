@@ -1,0 +1,25 @@
+	An array is a list that contains one datatype.
+
+	A simple array of Strings: String[] dog = {"Pug", "Boxer", "Poodle", "Grey Hound"}
+	This creates an array of four values. 
+
+	A 2-D array uses char to make a map. 
+	char[][] map = new char[16][30]; this creates a map with 16 rows and 30 columns.
+	We use two integers to be used as points on the map.
+	
+	A 3-D array uses three integers rather than using two like in a 2-D array.
+
+	While loops use boolean to see if something is true or false. If it is true, then the program will loop. 
+
+	While loops can be used in our game to create random maps after one is completed. If the game is completed (true) then the game will randomly
+	create a new map.
+
+	To call a method in main, you have to call it using the same thing you refer to in the method; you have to use the same interface.
+
+	It is important to use .toLowerCase() with your Scanner input to allow lower case and upper case
+	letters acceptable.
+
+	You should use different methods when moving the protagonist and to check for intersections so that an x can print properly.
+
+	
+	
