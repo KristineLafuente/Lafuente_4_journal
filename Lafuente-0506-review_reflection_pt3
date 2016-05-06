@@ -1,0 +1,20 @@
+67 is the y coordinate, and 43 is the x coordinate. 
+
+	if (i=0){ System.out.print("8888");
+If i is equal to zero, 8888 will print 8's all around the @ symbol; the .
+s will be replaced with 8's.
+
+	System.out.print(map[i][j]);
+x and y coordinates are printed throughout the map.
+
+	system.out.println(".");
+When x is printed, "." will be printed all around the x. This is different than #e because this prints a single line, while #e prints everywhere within the array.
+
+	System.out.println(map[i][j]);
+this prints the map if there is nothing else in the map. Only periods will print/
+
+Static has a single intsance. We use static so that we don't have to call a method, variable, ect. when using it throughout the code. 
+
+Objects can be used in our game to create x and y coordinates. Here is the code:
+public static int positionx = 15;
+public static int positiony = 8;
