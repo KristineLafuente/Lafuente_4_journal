@@ -1,0 +1,32 @@
+	public class Hero {
+
+		public static int health = 50;
+		public static int score = 0
+		public static String input;
+		public static String username;
+		public static int xposition = 0;
+		public static int yposition = 0;
+		public static boolean symbol = false;
+		public static boolean weapon = false;
+		public static int dexterity = 10;
+		public static int perception = 20;
+		
+	  public Hero(String n, int x, int y, s) {
+
+		name = n;
+		xposition = x;
+		yposition = y;
+		symbol = s;
+		Scanner username = new Scanner(System.in);
+
+		System.out.println("Hello, what's your name?");
+		name = username.nextLine();
+
+		
+
+
+}
+
+  }
+		
+		
