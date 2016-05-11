@@ -1,0 +1,2 @@
+	In nested for loops, the outer loop is preformed if the inner loop is completed.
+In this loop, the outer loop will be preformed once the inner one is.
