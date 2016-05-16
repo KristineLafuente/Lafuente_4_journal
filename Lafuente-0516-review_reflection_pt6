@@ -1,0 +1,16 @@
+	Casting is labeling an object differently; casting does not change the
+object itself. When you upcast, the object is being used as the label. When
+downcasting, the object's properties are not hidden anymore.
+
+		 Cod c = new Cod();
+		 Fish f = c; //upcasting
+		 
+		 Cod c1 = new Cod();
+		 Fish f = c1;
+		 Cod c2 = (Cod) f; //downcasting
+
+	
+	Converting char to String:
+		 String worms = Character.toString(char fish);
+
+	The range of values for byte is -128 to 127.
